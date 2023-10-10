@@ -1,0 +1,1 @@
+This is a simple static site displaying basic html skills utilizing ordered and unordered lists. 
